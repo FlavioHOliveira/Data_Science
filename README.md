@@ -1,4 +1,5 @@
-[![author](https://img.shields.io/badge/author-FlavioHO-red.svg)](https://www.linkedin.com/in/flávio-oliveira-978019115)] [contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://https://github.com/FlavioHOliveira/Data_Science)
+[![author](https://img.shields.io/badge/author-FlavioHO-red.svg)](https://www.linkedin.com/in/flávio-oliveira-978019115) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://https://github.com/FlavioHOliveira/Data_Science)
 
 <p align="center">
   <img src="banner.png" >
