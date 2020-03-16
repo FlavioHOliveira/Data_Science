@@ -5,19 +5,21 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
+# Flávio Oliveira
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Aluno da Formação Cientista de dados pela Data Science Academy, aplico meus conhecimentos em análise de dados e Machine Learning
+em problemas reais na busca de insights e resolver problemas de negócio.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Tenho ensino superior em Gestão em Segurança Pública, cursando Pós Graduação pela UNICIV em Business Intelligence. Estou numa
+busca constante por conhecimento, aprimoramento e desenvolvimento em meus projetos.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+*
+* [LinkedIn](https://www.linkedin.com/in/flávio-oliveira-978019115)
+
 
 
 ## Projetos:
