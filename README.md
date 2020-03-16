@@ -2,7 +2,7 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://https://github.com/FlavioHOliveira/Data_Science)
 
 <p align="center">
-  <img src="https://github.com/FlavioHOliveira/Data_Science/blob/master/big-data-analytics-banner-image-131934029945360761.jpg?raw=true" >
+  <img src="https://github.com/FlavioHOliveira/Data_Science/blob/master/Bigdata.jpg?raw=true" >
 </p>
 
 # Flávio Oliveira
