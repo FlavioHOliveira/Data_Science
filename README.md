@@ -14,10 +14,9 @@ em problemas reais na busca de insights e resolver problemas de negócio.
 Tenho ensino superior em Gestão em Segurança Pública, cursando Pós Graduação pela UNICIV em Business Intelligence. Estou numa
 busca constante por conhecimento, aprimoramento e desenvolvimento em meus projetos.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Spark.
 
 **Links:**
-*
 * [LinkedIn](https://www.linkedin.com/in/flávio-oliveira-978019115)
 
 
