@@ -5,8 +5,18 @@
   <img src="https://github.com/FlavioHOliveira/Data_Science/blob/master/Logo.jpg?raw=true" >
 </p>
 
+## Projetos:
+
+* **Prevendo o nível de satisfação do cliente (Santander):** encurtador.com.br/HMQV8
+* **Prevendo Customer Churn em Operações de Telecom:** encurtador.com.br/fBMRT
+* **Aplicando MapReduce:** encurtador.com.br/ryEKM
+
+
+---
+
+
 # Flávio Oliveira
-<sub>*Aluno da formação Cientista da Dados (DSA)</sub>
+<sub>Aluno da formação Cientista da Dados (DSA)</sub>
 
 Aluno da Formação Cientista de dados pela Data Science Academy, aplico meus conhecimentos em análise de dados e Machine Learning
 em problemas reais na busca de insights e resolver problemas de negócio.
@@ -21,10 +31,7 @@ busca constante por conhecimento, aprimoramento e desenvolvimento em meus projet
 
 
 
-## Projetos:
 
-
----
 
 
 
