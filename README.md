@@ -7,7 +7,7 @@
 
 ## Projetos:
 
-* **Nível de satisfação do cliente (Santander):** https://encurtador.com.br/HMQV8
+* **Nível de Satisfação do Cliente (Santander):** https://encurtador.com.br/HMQV8
 * **Customer Churn em Operações de Telecom:** https://encurtador.com.br/fBMRT
 * **Aplicando MapReduce:** https://encurtador.com.br/ryEKM
 
