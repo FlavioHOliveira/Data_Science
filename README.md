@@ -16,7 +16,6 @@
 
 
 # Flávio Oliveira
-<sub>Aluno da formação Cientista da Dados (DSA)</sub>
 
 Aluno da Formação Cientista de dados pela Data Science Academy, aplico meus conhecimentos em análise de dados e Machine Learning
 em problemas reais na busca de insights e resolver problemas de negócio.
