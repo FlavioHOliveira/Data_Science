@@ -7,7 +7,7 @@
 
 ## Projetos:
 
-* **Prevendo o nível de satisfação do cliente (Santander):** encurtador.com.br/HMQV8
+* **Prevendo o nível de satisfação do cliente (Santander):** https://encurtador.com.br/HMQV8
 * **Prevendo Customer Churn em Operações de Telecom:** encurtador.com.br/fBMRT
 * **Aplicando MapReduce:** encurtador.com.br/ryEKM
 
