@@ -9,7 +9,7 @@
 
 * **Prevendo o nível de satisfação do cliente (Santander):** https://encurtador.com.br/HMQV8
 * **Prevendo Customer Churn em Operações de Telecom:** https://encurtador.com.br/fBMRT
-* **Aplicando MapReduce:** ehttps://ncurtador.com.br/ryEKM
+* **Aplicando MapReduce:** https://encurtador.com.br/ryEKM
 
 
 ---
