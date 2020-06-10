@@ -7,9 +7,11 @@
 
 ## Projetos:
 
-* **Nível de Satisfação do Cliente (Santander):** https://encurtador.com.br/HMQV8
+* **Nível de Satisfação do Cliente (Santander):** https://github.com/FlavioHOliveira/Data_Science/blob/master/Projeto%20Satisfa%C3%A7%C3%A3o%20Cliente.ipynb
+
 * **Customer Churn em Operações de Telecom:** https://github.com/FlavioHOliveira/Data_Science/blob/master/Projeto%20Customer%20Churn.ipynb
-* **Aplicando MapReduce:** https://encurtador.com.br/ryEKM
+
+* **Aplicando MapReduce:** https://github.com/FlavioHOliveira/Data_Science/blob/master/Aplicando%20MapReduce.ipynb
 
 
 ---
