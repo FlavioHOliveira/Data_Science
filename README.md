@@ -11,7 +11,8 @@
 
 * **Customer Churn em Operações de Telecom:** https://github.com/FlavioHOliveira/Data_Science/blob/master/Projeto%20Customer%20Churn.ipynb
 
-* **Aplicando MapReduce:** https://github.com/FlavioHOliveira/Data_Science/blob/master/Aplicando%20MapReduce.ipynb
+* **Aplicando MapReduce:** 
+https://github.com/FlavioHOliveira/Data_Science/blob/master/Aplicando%20MapReduce.ipynb
 
 
 ---
