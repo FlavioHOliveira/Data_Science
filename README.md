@@ -5,16 +5,6 @@
   <img src="https://github.com/FlavioHOliveira/Data_Science/blob/master/Logo.jpg?raw=true" >
 </p>
 
-## Projetos:
-
-* **Nível de Satisfação do Cliente (Santander):** https://github.com/FlavioHOliveira/Data_Science/blob/master/Projeto%20Satisfa%C3%A7%C3%A3o%20Cliente.ipynb
-
-* **Customer Churn em Operações de Telecom:** https://github.com/FlavioHOliveira/Data_Science/blob/master/Projeto%20Customer%20Churn.ipynb
-
-
----
-
-
 # Flávio Oliveira
 
 Cursando Ciências da Computação pela UNIFRAN. Aluno da Formação Cientista de dados pela Data Science Academy, aplico meus conhecimentos em análise de dados e Machine Learning
