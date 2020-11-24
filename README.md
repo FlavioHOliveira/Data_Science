@@ -1,5 +1,4 @@
-# Projects
-Portfólio de Projetos
+# Portfólio de Projetos
 
 # Flávio Oliveira
 
